@@ -12,6 +12,7 @@ edge-tts==6.1.9
 Flask==3.0.3
 flask-cors==6.0.1
 frozenlist==1.7.0
+gunicorn==23.0.0
 idna==3.10
 imageio==2.37.0
 imageio-ffmpeg==0.6.0
@@ -21,6 +22,7 @@ MarkupSafe==3.0.2
 moviepy==1.0.3
 multidict==6.6.2
 numpy==2.2.6
+packaging==25.0
 pillow==11.2.1
 proglog==0.1.12
 propcache==0.3.2
